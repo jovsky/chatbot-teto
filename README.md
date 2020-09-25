@@ -1,4 +1,4 @@
-### Chatbot VTEX AWS Lambda
+### Chatbot TETO utilizando AWS Lambda
 
 #### Basic configuration
 
