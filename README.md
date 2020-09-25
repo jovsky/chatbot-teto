@@ -1,4 +1,4 @@
-### Chatbot TETO utilizando AWS Lambda
+### Função Lambda para AWS Lex do Chatbot TETO 
 
 #### Basic configuration
 
