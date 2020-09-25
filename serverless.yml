@@ -1,0 +1,14 @@
+
+service: chatbot-teto
+
+frameworkVersion: '2'
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  region: us-east-1
+
+
+functions:
+  sugerirDoacao:
+    handler: handler.sugerirDoacao
